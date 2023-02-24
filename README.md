@@ -12,8 +12,8 @@
 </ol>
 
 
-<pre><code>```python
+<pre><code>python
 Removing files from Downloads folder...
 Enter types of files that you want to remove (separated by comma): .txt, .pdf
 2 files deleted.
-```</code></pre>
+</code></pre>
