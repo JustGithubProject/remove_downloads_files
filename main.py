@@ -1,7 +1,7 @@
 import os
 
 print("Removing files from Downloads folder...")
-path = r'D:\Users\Kropi\Downloads'
+path = r'D:\Users\Username\Downloads'
 
 if not os.path.isdir(path):
     print("Directory not found")
